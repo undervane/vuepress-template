@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-template",
+  "version": "1.0.0",
+  "description": "My ready to go solution for every vuepress site",
+  "scripts": {
+    "start": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undervane/vuepress-template.git"
+  },
+  "author": "Undervane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undervane/vuepress-template/issues"
+  },
+  "homepage": "https://github.com/undervane/vuepress-template#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.1",
+    "vuepress": "^1.0.1"
+  }
+}
